@@ -62,10 +62,3 @@ Contributions are welcome! Feel free to submit issues or pull requests for impro
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 """
-
-# Writing the content to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
