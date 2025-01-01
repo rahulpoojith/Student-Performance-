@@ -1,5 +1,4 @@
- Creating a README.md file based on the user's request
-readme_content = """
+ 
 # Student Performance Analysis
 
 This project analyzes student performance data using machine learning and statistical methods. 
